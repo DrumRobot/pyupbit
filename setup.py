@@ -4,7 +4,7 @@ install_requires = [
    'pyjwt>=2.0.0',
    'pandas',
    'requests',
-   'websockets==9.1'
+   'websockets==10.3'
 ]
 
 with open("README.md", "r", encoding='UTF-8') as fh:
